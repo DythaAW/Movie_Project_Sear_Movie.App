@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Sear Movie App</string>
+
+    <!-- Bahasa Inggris || Awalnya ingin membuat berbahasa indonesia, namun sepertinya lebih bagus jika
+    menggunakan bahasa inggris untuk di menu utamanya //19-12-2020 -->
+
+    <!-- String Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Setting -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Elemen String  -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Upcoming</string>
+    <string name="search">Search</string>
+    <string name="language">Setting</string>
+    <string name="communicate">Communicate</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="details">Details</string>
+    <string name="content_time">Content Time</string>
+    <string name="time">Time</string>
+    <string name="masukan_nama_film">Input Movies</string>
+    <string name="favorite">Favorite</string>
+    <string name="rating">Rating</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_setting_notification">Notification</string>
+    <string name="tv_setting_daily_reminder_notification">Daily Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_daily_reminder">Turn on/off daily reminder</string>
+    <string name="tv_setting_upcoming_reminder_notification">Upcoming Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_upcoming_reminder">Turn on/off upcoming reminder</string>
+    <string name="tv_setting_settings">Settings</string>
+    <string name="tv_setting_locale">Setting Locale</string>
+    <string name="tv_setting_change_your_phone_localization">Change your phone localization</string>
+    <string name="message_setup_upcoming">Upcoming Task set up</string>
+    <string name="message_cancel_upcoming">Upcoming Task Cancel</string>
+    <string name="message_setup_daily">DailyReminder set up</string>
+    <string name="message_cancel_daily">Repeating alarm cancel</string>
+    <string name="message_notif_daily">Lets open your SEAR MOVIE&#8230;</string>
+    <string name="err_load_failed">Load Failed</string>
+
+
+    <!-- Elemen String Halaman Login -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_repeat">Repeat Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_register">Dont have an Account?</string>
+    <string name="action_have_account">Have an Account??</string>
+    <string name="action_submit">Submit</string>
+    <string name="login_header_information">You Need to Login First</string>
+
+    <string name="error_invalid_email">Email Invalid</string>
+    <string name="error_unavailable_email">Email already registeredr</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_invalid_password_repeat">Please Repeat the Right Password</string>
+    <string name="error_incorrect_password">Wrong password</string>
+    <string name="error_old_password">Wrong old password</string>
+    <string name="error_field_required">Cant be Empty</string>
+    <string name="permission_rationale">"Required Contact Permission"</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- Elemen String Halaman About -->
+    <string name="explaination_string">Aplikasi ini dibuat untuk pemenuhan perbaikan nilai dari Mata Kuliah Pemrograman Bergerak.
+        Aplikasi ini dapat memungkinkan pengguna untuk melihat list dari movie yang sedang tayang (now playing), akan tayang (up coming). Kemudian pengguna juga dapatmencari (search) movie yang ingin mereka tonton dan menekan tombol favorite pada movie yang mereka suka.
+    </string>
+    <string name="made_by">Dibuat Oleh :</string>
+    <string name="ma_name">Nama : Dytha Ananda Widhiarso</string>
+    <string name="ma_nim">NIM   : 09031181823024</string>
+    <string name="ma_class">Kelas : SIBIL 5B</string>
+    <string name="desc_fitur2">Aplikasi ini juga memiiliki fitur login, dan pemberian notifikasi. Halaman pertama yang muncul
+    pada saat pertama kali membuka aplikasi adalah halaman login. Pengguna diminta untuk login terlebih dahulu
+    sebelum mengakses aplikasi. Jika sudah maka pengguna akan melihat Splash Screen dari SEARMOVIE APP dan diantar
+    menuju halaman utama aplikasi.  Untuk melakukan Logout, pengguna dapat mengaksesnya dengan cara masuk ke Setting dan mengklik tombol Logout.</string>
+
+</resources>
